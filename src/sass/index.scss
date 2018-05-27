@@ -1,0 +1,12 @@
+@charset "UTF-8";
+$test : #333;
+$bg:#fff;
+$red:red;
+body{
+  background-color: $bg;
+  color: $test;
+
+}
+p{
+  color: $red;
+}
